@@ -11,7 +11,7 @@ h1{
     font-style: initial;
     color: white;
     position: relative;
-    right: -45px;
+    right: -70px;
 }
 
 .botao{
@@ -56,14 +56,14 @@ h1{
 }
 
 img{
-    width: 1070px;
+    width: 1115px;
     height: 525px;
     border: 3px solid black;
     border-radius: 30px;
     transition: transform 0.3s ease-in-out;
     position: relative;
     top: 10px;
-    right: 50px;
+    right: 47px;
 }
 
 img:hover{
