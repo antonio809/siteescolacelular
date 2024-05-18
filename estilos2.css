@@ -1,0 +1,168 @@
+.butao{
+    border: solid 1px violet;
+    border-radius: 30px;
+    color: blueviolet;
+    background-color: white;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+    width: 150px;
+    height: 65px;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    right: 41px;
+}
+
+.butao:hover{
+    background-color:blueviolet;
+    color: white;
+    font-style: italic;
+    transform: scale(1.4);
+}
+
+.butun{
+    border: solid 1px violet;
+    border-radius: 30px;
+    color: blueviolet;
+    background-color: white;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+    width: 150px;
+    height: 65px;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    right: 60px;
+}
+
+.butun:hover{
+    background-color:blueviolet;
+    color: white;
+    font-style: italic;
+    transform: scale(1.4);
+}
+
+.buton{
+    border: solid 1px violet;
+    border-radius: 30px;
+    color: blueviolet;
+    background-color: white;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+    width: 150px;
+    height: 65px;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    right: 13px;
+}
+
+.buton:hover{
+    background-color:blueviolet;
+    color: white;
+    font-style: italic;
+    transform: scale(1.4);
+}
+
+.butoa{
+    border: solid 1px violet;
+    border-radius: 30px;
+    color: blueviolet;
+    background-color: white;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+    width: 150px;
+    height: 65px;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    right: 45px;
+}
+
+.butoa:hover{
+    background-color:blueviolet;
+    color: white;
+    font-style: italic;
+    transform: scale(1.4);
+}
+
+.batua{
+    border: solid 1px violet;
+    border-radius: 30px;
+    color: blueviolet;
+    background-color: white;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+    width: 150px;
+    height: 65px;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    right: 46px;
+}
+
+.batua:hover{
+    background-color:blueviolet;
+    color: white;
+    font-style: italic;
+    transform: scale(1.4);
+}
+
+.balactua{
+    border: solid 1px violet;
+    border-radius: 30px;
+    color: blueviolet;
+    background-color: white;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+    width: 150px;
+    height: 65px;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    right: 0px;
+}
+
+.balactua:hover{
+    background-color:blueviolet;
+    color: white;
+    font-style: italic;
+    transform: scale(1.4);
+}
+
+.botua{
+    border: solid 1px violet;
+    border-radius: 30px;
+    color: blueviolet;
+    background-color: white;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+    width: 175px;
+    height: 75px;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    right: 0px;
+    top: 200px;
+
+}
+
+.botua:hover{
+    background-color:blueviolet;
+    color: white;
+    font-style: italic;
+    transform: scale(1.4);
+}
+
+
+body{
+    background-image: url(arte\ geométrica.jpg);
+    background-repeat: no-repeat;
+    background-size: 2500px;
+    background-position: top;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 150px;
+    font-style: initial;
+    color: white;
+}

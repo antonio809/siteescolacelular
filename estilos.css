@@ -1,0 +1,72 @@
+body{
+    background-image: url(arte\ geométrica.jpg);
+    background-repeat: no-repeat;
+    background-size: 5000px;
+    background-position: top;
+}
+
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 175px;
+    font-style: initial;
+    color: white;
+    position: relative;
+    right: -45px;
+}
+
+.botao{
+    border: solid 1px violet;
+    border-radius: 30px;
+    color: blueviolet;
+    background-color: white;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+    width: 400px;
+    height: 85px;
+    font-size: 45px;
+    position: relative;
+    top: 70px;
+    right: -70px;
+}
+
+.botao:hover{
+    background-color: blueviolet;
+    color: white;
+    transform: scale(1.4);
+}
+
+.beskstops{
+    border: solid 1px violet;
+    border-radius: 30px;
+    color: blueviolet;
+    background-color: white;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+    width: 180px;
+    height: 85px;
+    font-size: 45px;
+    position: relative;
+    top: 190px;
+    right: -70px;
+}
+
+.beskstops:hover{
+    background-color: blueviolet;
+    color: white;
+    transform: scale(1.4);
+
+}
+
+img{
+    width: 1070px;
+    height: 525px;
+    border: 3px solid black;
+    border-radius: 30px;
+    transition: transform 0.3s ease-in-out;
+    position: relative;
+    top: 10px;
+    right: 50px;
+}
+
+img:hover{
+    transform: scale(1.05);
+}
+
